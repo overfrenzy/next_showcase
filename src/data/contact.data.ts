@@ -1,7 +1,7 @@
 export const contactInfo = [
   {
     title: "Почта",
-    info: "punkin737@gmail.com",
+    info: "anbor766@gmail.com",
   },
   {
     title: "Телефон",
@@ -9,6 +9,6 @@ export const contactInfo = [
   },
   {
     title: "Адрес",
-    info: "Якутск, Россия",
+    info: "Россия, Якутск",
   },
 ];
